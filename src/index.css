@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-link.active {
+  color: #d22f27;
+  border-right: 4px solid #d22f27;
+}
+
+.list-songs::-webkit-scrollbar {
+  background-color: #191a1f;
+  width: 8px;
+}
+.list-songs::-webkit-scrollbar-thumb {
+  background-color: red;
+  border-radius: 10px;
+}

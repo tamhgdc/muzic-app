@@ -1,0 +1,9 @@
+.imgCard:hover {
+  transform: scale(1.1) translateZ(0);
+}
+.text-card {
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

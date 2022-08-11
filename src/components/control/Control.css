@@ -1,0 +1,17 @@
+.rhap_progress-indicator {
+  background: red !important;
+}
+.rhap_volume-indicator,
+.rhap_progress-filled {
+  background-color: rgba(255, 0, 0, 0.911);
+}
+.rhap_main-controls-button {
+  color: white;
+}
+.rhap_time {
+  color: white;
+}
+.rhap_volume-button,
+.rhap_repeat-button {
+  color: rgba(255, 0, 0, 0.911) !important;
+}
